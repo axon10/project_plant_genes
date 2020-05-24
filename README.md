@@ -1,4 +1,4 @@
-# plant_genome_associations
+# Plant Gene Associations
 Machine learning using single cell genomics of plant-associated bacteria
 Introduction:
 
